@@ -60,7 +60,7 @@ limitations under the License.
 
     <gridgain.version>8.7.19</gridgain.version>
     <spring.version>5.1.6.RELEASE</spring.version>
-    <spring.security.version>5.1.6.RELEASE</spring.security.version>
+    <spring.security.version>5.5.7</spring.security.version>
 
   </properties>
 
